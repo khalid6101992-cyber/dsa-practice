@@ -16,14 +16,16 @@ Each solution includes the approach, time/space complexity, and notes on mistake
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Hashing, Bucket Sort | Medium | O(n) | O(n) | [Python](hashing/0347-top-k-frequent-elements.py) |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Hashing | Medium | O(n) | O(n) | [Python](hashing/0128-longest-consecutive-sequence.py) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Two Pointers | Easy | O(n) | O(1) | [Python](two-pointers/0125-valid-palindrome.py) |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two Pointers | Medium | O(n) | O(1) | [Python](two-pointers/0167-two-sum-ii.py) |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Two Pointers | Medium | O(n²) | O(n) | [Python](two-pointers/0015-3sum.py) |
 
-**Solved: 7** (Easy: 4 · Medium: 3)
+**Solved: 9** (Easy: 4 · Medium: 5)
 
 ## Patterns covered
 
 - **Hashing** — sets for "seen before?", dictionaries for counting and lookups
 - **Bucket sort** — placing items by count instead of sorting
-- **Two pointers** — comparing from both ends, moving inward
+- **Two pointers** — comparing from both ends, moving inward; fix one + Two Sum II for 3Sum
 
 ## Structure
 
