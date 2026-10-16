@@ -33,3 +33,19 @@ Each solution includes the approach, time/space complexity, and notes on mistake
 hashing/        Hash map and set problems
 two-pointers/   Two pointer problems
 ```
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0015-3sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0015-3sum) |
+<!---LeetCode Topics End-->
