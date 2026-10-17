@@ -7,7 +7,6 @@ class Solution:
             width = right - left
             heights = min(height[right],height[left])
             max_area = max(max_area, width*heights)
-            print(max_area)
             if height[left] < height[right]:
                 left += 1
             else:
