@@ -1,12 +1,13 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        lengthOfLongestStr = 0
+        lenLongetString = 0
         dataSet = set()
         left = 0
-        for right in range(len(s)):
-            while s[right] in dataSet:
-                dataSet.remove(s[left])        # blank 1: which letter leaves?
+        right = len(s) - 1
+        for i in s:
+            while i in dataSet:
+                dataSet.remove(s[left])
                 left += 1
-            dataSet.add(s[right])               # blank 2: which letter joins?
-            lengthOfLongestStr = max(lengthOfLongestStr, len(dataSet))   # blank 3: window length
-        return lengthOfLongestStr
+            dataSet.add(i)
+            lenLongetString = max(lenLongetString, len(dataSet))
+        return lenLongetString
