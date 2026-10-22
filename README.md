@@ -47,6 +47,7 @@ two-pointers/   Two pointer problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0015-3sum) |
+| [0567-permutation-in-string](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -64,14 +65,17 @@ two-pointers/   Two pointer problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
