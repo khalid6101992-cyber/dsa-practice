@@ -42,6 +42,7 @@ two-pointers/   Two pointer problems
 | [0001-two-sum](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ two-pointers/   Two pointer problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0049-group-anagrams) |
 ## Greedy
 |  |
 | ------- |
@@ -66,12 +68,14 @@ two-pointers/   Two pointer problems
 | ------- |
 | [0001-two-sum](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0567-permutation-in-string) |
 ## Sliding Window
