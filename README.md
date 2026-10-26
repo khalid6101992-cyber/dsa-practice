@@ -44,6 +44,7 @@ two-pointers/   Two pointer problems
 | [0015-3sum](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ two-pointers/   Two pointer problems
 | [0001-two-sum](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0567-permutation-in-string) |
 ## String
@@ -84,4 +86,8 @@ two-pointers/   Two pointer problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0567-permutation-in-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
