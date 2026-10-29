@@ -7,7 +7,6 @@ function isValid(s: string): boolean {
         ['}', '{'],
     ])
 
-    console.log(pairs)
     for(let ch of s) {
         console.log(ch)
         if (pairs.has(ch)) {
