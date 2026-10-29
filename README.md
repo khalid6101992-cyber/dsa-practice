@@ -77,6 +77,7 @@ two-pointers/   Two pointer problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0567-permutation-in-string) |
@@ -90,4 +91,12 @@ two-pointers/   Two pointer problems
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
