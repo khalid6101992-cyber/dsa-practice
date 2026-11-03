@@ -46,6 +46,7 @@ two-pointers/   Two pointer problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1929-concatenation-of-array](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,4 +111,8 @@ two-pointers/   Two pointer problems
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
