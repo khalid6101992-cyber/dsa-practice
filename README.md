@@ -45,6 +45,7 @@ two-pointers/   Two pointer problems
 | [0049-group-anagrams](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +96,7 @@ two-pointers/   Two pointer problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
@@ -104,4 +106,8 @@ two-pointers/   Two pointer problems
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/khalid6101992-cyber/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
