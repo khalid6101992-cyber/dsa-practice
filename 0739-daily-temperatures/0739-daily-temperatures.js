@@ -9,15 +9,12 @@ var dailyTemperatures = function(temperatures) {
         wait[temp] = 0
     }
     for (let [i, temp] of temperatures.entries()) {
-        console.log(i, temp)
         let waiting_day = 0
         while (stack.length != 0 && temp > temperatures[stack.at(-1)]) {
             waiting_day = stack.pop()
             wait[waiting_day] = i - waiting_day
-
         }
         stack.push(i)
-
     }
     return wait
 };
