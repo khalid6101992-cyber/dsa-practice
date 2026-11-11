@@ -1,16 +1,19 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        result = []
-        parenthesis = {
-            ")":"(",
-            "]":"[",
+        brackets = {
             "}":"{",
+            "]":"[",
+            ")":"("
         }
-        for ch in s:
-            if ch in parenthesis:
-                if not result or result[-1] != parenthesis[ch]:
+        ans = []
+        for i in s:
+            if i in brackets:
+                if not ans or ans[-1] != brackets[i]:
                     return False
-                result.pop()
+                ans.pop()
             else:
-                result.append(ch)
-        return len(result) == 0
+                ans.append(i)
+        if len(ans) == 0:
+            return True
+        else:
+            return False
