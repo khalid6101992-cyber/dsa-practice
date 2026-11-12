@@ -1,11 +1,10 @@
 class Solution:
     def dailyTemperatures(self, temperatures: list[int]) -> list[int]:
-        wait = [0] * len(temperatures)
+        ans = [0] * len(temperatures)
         stack = []
         for i, temp in enumerate(temperatures):
-            while stack and temperatures[i] > temperatures[stack[-1]]:
+            while stack and temp > temperatures[stack[-1]]:          # blank 1: today is warmer than the day on top
                 waiting_day = stack.pop()
-                wait[waiting_day] = i - waiting_day
-            stack.append(i)
-        return wait
-        
+                ans[waiting_day] = i - waiting_day    # blank 2: how long it waited
+            stack.append(i)                           # blank 3: today starts waiting
+        return ans
